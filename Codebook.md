@@ -6,13 +6,12 @@ The dataset contains the mean value of each of the **mean** and **standard devia
 ## Identifiers
 - **Subject**: identification number for each one of the subjects.
 - **Activity**: represents the activity that the subject was performing when the measurement was recorded. There are six different activities, declared with their descriptive name:  
-
-- Walking
-- Walking upstairs
-- Walking downstairs
-- Sitting
-- Standing
-- Laying  
+  - Walking
+  - Walking upstairs
+  - Walking downstairs
+  - Sitting
+  - Standing
+  - Laying  
 
 ## Variables (measurements)
 There are 86 different variables in the data set. Each one has a descriptive name.  
